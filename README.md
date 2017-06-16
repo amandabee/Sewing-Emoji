@@ -17,7 +17,7 @@ A [successful proposal](http://www.unicode.org/L2/L2016/16024-dumpling-emoji.pdf
 
 There are a few ways that you can help, especially if you're game to do some research. If you already know how to create a pull request, I'll take research in pull request form. But that's obviously not for everyone. Most folks will want to either edit the notes directly or [file an issue](https://github.com/amandabee/Sewing-Emoji/issues). To do either of those things, you need to create [a github account](https://github.com/). 
 
-## Background
+## Some Background
 
 My original list was something like this:
 
