@@ -37,5 +37,6 @@ With a side list that I wasn't sure I could picture as emoji but seemed relevant
 
 + loom
 + sewing machine
++ spinning wheel
 + something that reflects dye?
 + fabric (a bolt of fabric?)
