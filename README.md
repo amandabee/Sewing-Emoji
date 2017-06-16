@@ -8,6 +8,16 @@ I'm working with Emojination to develop four proposals:
 + ball of yarn with knitting needles
 + safety pin
 
+## Help!
+For each icon, I need a design (though I may have one soon) and I need help researching and brainstorming the following:
+
+* have any existing platforms (which platforms? TK!) built this emoji in, custom?
+* what is the history of the object?
+* would an emoji have other, extra, alternate uses?
+* usage/analytics (guidelines TK)
+
+
+## Background
 
 My original list was something like this:
 
