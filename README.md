@@ -1,7 +1,5 @@
 # Sewing-Emoji
-Working out my scheme for some textile related emoji, because it bugs me that there are none. 
-
-I'm working with Emojination to develop four proposals:
+Working out my scheme for some textile related emoji, because it bugs me that there are none. I'm working with [Emojination](http://www.emojination.org/) to develop four proposals:
 
 + needle and thread
 + spool of thread
