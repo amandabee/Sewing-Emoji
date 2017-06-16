@@ -16,6 +16,7 @@ For each icon, I need a design (though I may have one soon) and I need help rese
 * would an emoji have other, extra, alternate uses?
 * usage/analytics (guidelines TK)
 
+There are a few ways that you can help, especially if you're game to do some research. If you already know how to create a pull request, I'll take research in pull request form. But that's obviously not for everyone. Most folks will want to either edit the notes directly or [file an issue](https://github.com/amandabee/Sewing-Emoji/issues). To do either of those things, you need to create [a github account](https://github.com/). 
 
 ## Background
 
@@ -27,6 +28,10 @@ My original list was something like this:
 + ball of yarn
 + crochet hook
 + safety pin
++ measuring tape
++ button
++ zipper
++ thimble
 
 With a side list that I wasn't sure I could picture as emoji but seemed relevant and universal:
 
