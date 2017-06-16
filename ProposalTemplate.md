@@ -1,8 +1,10 @@
-... Proposal
-Submitted by:
-Date: 
-Art created by TK.  
-Licensed for non­commercial use: free to share and use.
+There's an example proposal at [https://unicode.org/emoji/selection.html#example_submission]
+
+... Proposal  
+Submitted by:  
+Date:   
+Art created by TK.   
+Licensed for non-commercial use: free to share and use.
 
 # Abstract
 We propose the inclusion of the TK emoji, a highly recognizable icon that TK 
