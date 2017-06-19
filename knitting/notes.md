@@ -1,6 +1,7 @@
-# Needle and Thread
-
+# Knitting
 ## Other Uses
+
++ History https://en.wikipedia.org/wiki/History_of_knitting
 
 + kitteh
 
