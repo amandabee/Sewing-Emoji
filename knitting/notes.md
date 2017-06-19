@@ -15,5 +15,8 @@ https://github.com/Crissov/unicode-proposals/blob/bf4107a630ec1a0101e89a866ce419
 
 ## History
 
-Because the simplest knitting needle is indistinguishable from a sharpened stick, and the earliest material that humans would have knit with are all plant or animal based and quick to decompose, we know very little about the history of knitting. The oldest known example of a knitted object dates back to [11th century Egypt](https://en.wikipedia.org/wiki/History_of_knitting#cite_note-2) and knitting remains a hugely popular pasttime today. 
+Because the simplest knitting needle is indistinguishable from a sharpened stick, and the earliest material that humans would have knit with are all plant or animal based and quick to decompose, we know very little about the history of knitting.
+
+The verb "to knit" was not added to the Oxford English Dictionary until the 1400s[cite](http://www.knitty.com/ISSUEspring06/FEAThistory101.html), but knitting is still a hugely important textile production process. 
+The oldest known example of a knitted object dates back to [11th century Egypt](https://en.wikipedia.org/wiki/History_of_knitting#cite_note-2) and knitting remains a hugely popular pasttime today. 
 
