@@ -6,7 +6,7 @@ bobbin, spool, thread
 ## Other Uses
 
 + cable spool
-+ Threaded conversations (eg https://twitter.com/KevinWGlass/status/865566333576073216)
++ Threaded conversations ("Why is there no thread emoji!" is a common complaint that sets of references to Twitter threads: https://twitter.com/KevinWGlass/status/865566333576073216 https://twitter.com/RogueArtificer/status/871395374333779968 )
 + winch
 + fishing line
 + 3d printer filament
