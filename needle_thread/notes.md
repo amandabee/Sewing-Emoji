@@ -1,5 +1,8 @@
 # Needle and Thread
 
+This is very badly worded ...
+Though clothing is a core element of humankind's protection from the elements and civilization and the core tool for creating clothing is nearly universal, the emoji character set includes no sewing related emoji. This proposal seeks to fill that gap. 
+
 ## synonyms
 mending, sewing, quilting, tailoring, sutures, stitches, tapestry
 
