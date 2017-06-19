@@ -3,6 +3,9 @@
 ## Synonym
 Quilt pin, kilt pin, diaper pin, nappy pin
 
+## Other pins
+
+The 📍 and 📌 pushpin and map pin options are both forms of pin, but they are distinct from the self closing safety pin. 
 
 ## Other Uses
 
