@@ -1,4 +1,9 @@
 # Knitting
+
+## Synonyms
+
+yarn, ball of yarn 
+
 ## Other Uses
 
 + History https://en.wikipedia.org/wiki/History_of_knitting
