@@ -9,6 +9,10 @@ Quilt pin, kilt pin, diaper pin, nappy pin
 + Punk
 + Kilt Pins
 
+
+Sewing and Knitting are among the top emoji requests:
+http://blog.emojipedia.org/top-emoji-requests-2017/
+
 ## Existing Emoji
 
 ## History
