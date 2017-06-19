@@ -56,7 +56,7 @@ There is a very high expected frequency of use, within a worldwide community. Th
 Practices like knitting and crochet are generally regarded to be meditative, and hailed as benefitting one’s mental health, reducing stress levels, and improving hand-eye coordination and focus.
 
 ### Image distinctiveness
-A yarn emoji would be fully distinct from current emojis. The closest, sadly, would be the “spaghetti” or “steaming bowl” emojis, only similar for the pasta/noodles’ thread-like appearance.
+A yarn emoji would be fully distinct from current emojis. The closest might be the “spaghetti” or “steaming bowl” emojis, only similar for the pasta/noodles’ thread-like appearance. Some users use the ♒️ (Aquarius) glyph, because it is the closest thing to thread or yarn in the character set. 
 
 ### Completeness
 The yarn emoji would go a very long way toward closing a giant hole in the current selection of available crafting-related emoji -- of which, arguably, there is only one -- “artist palette”.
