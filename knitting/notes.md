@@ -1,11 +1,16 @@
 # Knitting
 
+
+
+
 ## Synonyms
 
 yarn, ball of yarn 
 
 ## Other Uses
 + kitteh
++ grandmas
++ expectant mothers
 
 
 Because knitting is a labor intensive project there are lots of opportunities to combine it with other emoji to tell a story. 
