@@ -11,6 +11,10 @@ Quilt pin, kilt pin, diaper pin, nappy pin
 
 The 📍 and 📌 pushpin and map pin options are both forms of pin, but they are distinct from the self closing safety pin. The 📎🖇paperclip emojis are often used to indicate "holding things together" even when those things would be better held by a safety pin. 
 
+With the exception of a spike in the fall of 2016, when the safety pin emerged briefly as a symbol of anti-racist solidarity [in the US](http://kottke.org/16/11/safety-pins-as-a-symbol-of-solidarity-against-racism) and [in the UK](https://thinkprogress.org/after-brexit-a-safety-pin-becomes-a-symbol-of-solidarity-with-immigrants-8b6a152fe046), 
+
+https://trends.google.com/trends/explore?q=paper%20clip,thumbtack,safety%20pin
+
 ## Other Uses
 
 The safety pin represents emergeny repair, prototyping. 
@@ -26,7 +30,7 @@ A large safety pin is used as a [kilt pin](https://en.wikipedia.org/wiki/Kilt_pi
 
 The safety pin is a versatile symbol. In the Ukraine, pinning safety pins to the inside of a child’s clothing will ward off evil spirits. In other parts of Europe finding a safety pin is good luck, and a portent of good fortune.[1](http://museumofeverydaylife.org/exhibitions-collections/current-exhibitions/a-visual-history-of-the-safety-pin
 )
- It was and is closely associated with [punk](https://www.rollingstone.com/music/pictures/inside-the-mets-new-exhibit-punk-chaos-to-couture-20130507/pin-it-down-0787285) fashion starting in the 1970s. In 2016, the Safety Pin emerged briefly as a symbol of anti-racist solidarity [in the US](http://kottke.org/16/11/safety-pins-as-a-symbol-of-solidarity-against-racism) and [in the UK](https://thinkprogress.org/after-brexit-a-safety-pin-becomes-a-symbol-of-solidarity-with-immigrants-8b6a152fe046). 
+ It was and is closely associated with [punk](https://www.rollingstone.com/music/pictures/inside-the-mets-new-exhibit-punk-chaos-to-couture-20130507/pin-it-down-0787285) fashion starting in the 1970s.
 
 Sewing and Knitting are among the top emoji requests, at least in [2016](http://blog.emojipedia.org/top-emoji-requests-2016/) and [2017](http://blog.emojipedia.org/top-emoji-requests-2017/)
 
