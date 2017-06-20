@@ -1,6 +1,6 @@
 # Needle and Thread
 
-Proposal TK at https://docs.google.com/document/d/1cHwDoor_3a8Lzy2-zqIOfoYrc3LNN17xnUjEriYWznw/edit?usp=sharing
+Proposal TK at https://docs.google.com/document/d/1rG1l-F6qbvpx1e3B9hNZlVTdL757nAuxKSkSMC9oHrY/edit?usp=sharing
 
 This is very badly worded ...
 Though clothing is a core element of humankind's protection from the elements and civilization and the core tool for creating clothing is nearly universal, the emoji character set includes no sewing related emoji. This proposal seeks to fill that gap. 
