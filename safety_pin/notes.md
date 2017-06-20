@@ -28,7 +28,7 @@ The safety pin represents emergeny repair, prototyping.
 http://museumofeverydaylife.org/exhibitions-collections/current-exhibitions/a-visual-history-of-the-safety-pin
 
 
-A large safety pin is used as a [kilt pin](https://en.wikipedia.org/wiki/Kilt_pin#cite_ref-four_4-1) in less formal settings. Many generations of diapers were held together with safety pin. Even at the most elite levels of running competion, a 🏃 runner's number is fastened to their uniform with a safety pin. A wedding planner's emergency kit always includes a stash of safety pins. 
+A large safety pin is used as a [kilt pin](https://en.wikipedia.org/wiki/Kilt_pin#cite_ref-four_4-1) in less formal settings. Many generations of diapers were held together with safety pin. In running and cycling, a safety pin indicates competition. Even at the most elite levels of running competion, a 🏃 runner's number is fastened to their uniform with a safety pin. A wedding planner's emergency kit always includes a stash of safety pins. 
 
 ![World class runner Caster Semaya with her number held on by a safety pin](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.newyorker.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThompson-Gladwell-CasterSemenyaandtheLogicofOlympicCompetition-800.jpg&f=1)
 
