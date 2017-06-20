@@ -11,7 +11,13 @@ Quilt pin, kilt pin, diaper pin, nappy pin
 
 The 📍 and 📌 pushpin and map pin options are both forms of pin, but they are distinct from the self closing safety pin. The 📎🖇paperclip emojis are often used to indicate "holding things together" even when those things would be better held by a safety pin. 
 
-With the exception of a spike in the fall of 2016, when the safety pin emerged briefly as a symbol of anti-racist solidarity [in the US](http://kottke.org/16/11/safety-pins-as-a-symbol-of-solidarity-against-racism) and [in the UK](https://thinkprogress.org/after-brexit-a-safety-pin-becomes-a-symbol-of-solidarity-with-immigrants-8b6a152fe046), 
+With the exception of a spike in the fall of 2016, when the safety pin emerged briefly as a symbol of anti-racist solidarity [in the US](http://kottke.org/16/11/safety-pins-as-a-symbol-of-solidarity-against-racism) and [in the UK](https://thinkprogress.org/after-brexit-a-safety-pin-becomes-a-symbol-of-solidarity-with-immigrants-8b6a152fe046), the safety pin has remained more prominent than the thumbtack and close to the paperclip:
+
+  <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1040_RC04/embed_loader.js"></script>
+  <script type="text/javascript">
+    trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"paper clip","geo":"","time":"2004-01-01 2017-06-20"},{"keyword":"thumbtack","geo":"","time":"2004-01-01 2017-06-20"},{"keyword":"safety pin","geo":"","time":"2004-01-01 2017-06-20"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=paper%20clip,thumbtack,safety%20pin","guestPath":"https://trends.google.com:443/trends/embed/"});
+  </script>
+
 
 https://trends.google.com/trends/explore?q=paper%20clip,thumbtack,safety%20pin
 
