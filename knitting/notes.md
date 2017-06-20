@@ -47,6 +47,8 @@ There is a very high expected frequency of use, within a worldwide community. Th
   - Knitting (56k+ subscribers)
   - Crochet (50k+ subscribers)
   - Sewing (58k+ subscribers)
+  
+There is an active [#yarnemoji](https://twitter.com/hashtag/yarnemoji) hash tag.
 
 ### Multiple Use
 - Can be used to convey a wide spectrum of fiber arts as previously described (crochet, knitting, weaving, spinning, etc).
