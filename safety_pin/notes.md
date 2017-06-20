@@ -15,9 +15,18 @@ The 📍 and 📌 pushpin and map pin options are both forms of pin, but they ar
 
 The safety pin represents emergeny repair, prototyping. 
 
-A large safety pin is used as a [kilt pin](https://en.wikipedia.org/wiki/Kilt_pin#cite_ref-four_4-1) in less formal settings. Many generations of diapers were held together with safety pin. 
+http://museumofeverydaylife.org/exhibitions-collections/current-exhibitions/a-visual-history-of-the-safety-pin
 
-The safety pin is a versatile symbol. It was and is closely associated with [punk](https://www.rollingstone.com/music/pictures/inside-the-mets-new-exhibit-punk-chaos-to-couture-20130507/pin-it-down-0787285) fashion starting in the 1970s. In 2016, the Safety Pin emerged briefly as a symbol of anti-racist solidarity [in the US](http://kottke.org/16/11/safety-pins-as-a-symbol-of-solidarity-against-racism) and [in the UK](https://thinkprogress.org/after-brexit-a-safety-pin-becomes-a-symbol-of-solidarity-with-immigrants-8b6a152fe046). 
+
+A large safety pin is used as a [kilt pin](https://en.wikipedia.org/wiki/Kilt_pin#cite_ref-four_4-1) in less formal settings. Many generations of diapers were held together with safety pin. Even at the most elite levels of running competion, a 🏃 runner's number is fastened to their uniform with a safety pin. A wedding planner's emergency kit always includes a stash of safety pins. 
+
+![World class runner Caster Semaya with her number held on by a safety pin](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.newyorker.com%2Fwp-content%2Fuploads%2F2016%2F08%2FThompson-Gladwell-CasterSemenyaandtheLogicofOlympicCompetition-800.jpg&f=1)
+
+![2012 Olympic Medalists, with numbers pinned on](http://girlsgotsole.com/blog/wp-content/uploads/2012/08/richardsross.jpg)
+
+The safety pin is a versatile symbol. In the Ukraine, pinning safety pins to the inside of a child’s clothing will ward off evil spirits. In other parts of Europe finding a safety pin is good luck, and a portent of good fortune.[1](http://museumofeverydaylife.org/exhibitions-collections/current-exhibitions/a-visual-history-of-the-safety-pin
+)
+ It was and is closely associated with [punk](https://www.rollingstone.com/music/pictures/inside-the-mets-new-exhibit-punk-chaos-to-couture-20130507/pin-it-down-0787285) fashion starting in the 1970s. In 2016, the Safety Pin emerged briefly as a symbol of anti-racist solidarity [in the US](http://kottke.org/16/11/safety-pins-as-a-symbol-of-solidarity-against-racism) and [in the UK](https://thinkprogress.org/after-brexit-a-safety-pin-becomes-a-symbol-of-solidarity-with-immigrants-8b6a152fe046). 
 
 Sewing and Knitting are among the top emoji requests, at least in [2016](http://blog.emojipedia.org/top-emoji-requests-2016/) and [2017](http://blog.emojipedia.org/top-emoji-requests-2017/)
 
