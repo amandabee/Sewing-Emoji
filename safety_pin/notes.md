@@ -1,5 +1,7 @@
 # Safety Pin
 
+proposal TK at https://docs.google.com/document/d/1jCiX4gP9d-IuoibCkSEBjo181Vz1SxwTb-TPPMShgJU/edit?usp=sharing
+
 ## Synonym
 Quilt pin, kilt pin, diaper pin, nappy pin
 
@@ -13,9 +15,9 @@ The 📍 and 📌 pushpin and map pin options are both forms of pin, but they ar
 + Kilt Pins
 
 
-Sewing and Knitting are among the top emoji requests:
-http://blog.emojipedia.org/top-emoji-requests-2017/ and http://blog.emojipedia.org/top-emoji-requests-2016/
+Sewing and Knitting are among the top emoji requests, at least in [2016](http://blog.emojipedia.org/top-emoji-requests-2016/) and [2017](http://blog.emojipedia.org/top-emoji-requests-2017/)
 
+ 
 ## Existing Emoji
 
 ## History
