@@ -1,4 +1,5 @@
 # Spool
+Proposal TK at https://docs.google.com/document/d/1cHwDoor_3a8Lzy2-zqIOfoYrc3LNN17xnUjEriYWznw/edit?usp=sharing -- request edit access!
 
 ## Synonyms
 bobbin, spool, thread
