@@ -1,4 +1,21 @@
-# Sewing-Emoji
+# Sewing Needle
+
+The SEWING NEEDLE was set aside because the emoji sub-committee felt that it duplicated THREAD and that it wasn't visually distinctive. We worked with an illustrator to revise the image and I've been working on expanding the NEEDLE proposal to articulate clearly why it belongs in the characterset. 
+
+The most recent version of the new proposal lives at: 
+
+https://docs.google.com/document/d/1rG1l-F6qbvpx1e3B9hNZlVTdL757nAuxKSkSMC9oHrY/edit#
+
+## How to Help?
+
+If you have compelling arguments that aren't already well made in that document, you can [share them as issues](https://github.com/amandabee/Sewing-Emoji/issues) here or add a comment to the document itself. And if you can identify idioms and phrases featuring the NEEDLE please share them! They don't have to be in English, and the more international idioms we can identify the more compelling the argument is. Again, add them as issues or comment on the proposal.
+
+# Craft Emoji
+
+UPDATE: The Unicode Consortium approved  🧵[THREAD](https://emojipedia.org/spool-of-thread/),🧶 [YARN](https://emojipedia.org/ball-of-yarn/), 🧷[SAFETY PIN](https://emojipedia.org/safety-pin/) for the 2018 emoji characterset release. You can use them on Twitter and iOS now. No telling when Android phones will catch up. 😿
+
+
+
 Working out my scheme for some textile related emoji, because it bugs me that there are none. I'm working with [Emojination](http://www.emojination.org/) to develop four proposals:
 
 + needle and thread
