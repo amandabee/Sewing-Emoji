@@ -1,6 +1,6 @@
 # Sewing Needle
 
-The SEWING NEEDLE was set aside because the emoji sub-committee felt that it duplicated THREAD and that it wasn't visually distinctive. We worked with an illustrator to revise the image and I've been working on expanding the NEEDLE proposal to articulate clearly why it belongs in the characterset. 
+The SEWING NEEDLE was set aside because the emoji sub-committee felt that it duplicated THREAD and that it wasn't visually distinctive. We worked with an illustrator to revise the image and I've been working on expanding the NEEDLE proposal to articulate clearly why it belongs in the character set. 
 
 The most recent version of the new proposal lives at: 
 
@@ -8,7 +8,7 @@ https://docs.google.com/document/d/1rG1l-F6qbvpx1e3B9hNZlVTdL757nAuxKSkSMC9oHrY/
 
 ## How to Help?
 
-If you have compelling arguments that aren't already well made in that document, you can [share them as issues](https://github.com/amandabee/Sewing-Emoji/issues) here or add a comment to the document itself. And if you can identify idioms and phrases featuring the NEEDLE please share them! They don't have to be in English, and the more international idioms we can identify the more compelling the argument is. Again, add them as issues or comment on the proposal.
+If you have **compelling arguments** that aren't already well made in that document, you can [share them as issues](https://github.com/amandabee/Sewing-Emoji/issues) here or add a comment to the document itself. And if you can identify **idioms and phrases** featuring the NEEDLE please share them! They don't have to be in English, and the more international idioms we can identify the more compelling the argument is. Again, add them as issues or comment on the proposal. Any **non-sewing implications** for a needle would be great, to make the case that this emoji has wide uses beyond sewing. Any interesting celebrations, like 針供養 the Festival of Broken Needles, are fantastic additions. 
 
 # Craft Emoji
 
