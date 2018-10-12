@@ -1,6 +1,7 @@
-There's an example proposal at [https://unicode.org/emoji/selection.html#example_submission]
+# update 2018 
+Don't use this format. The ESC has refined their selection criteria and you should use their [sample submission](https://unicode.org/emoji/selection.html#example_submission). 
 
-... Proposal  
+Name of Emoji... Proposal  
 Submitted by:  
 Date:   
 Art created by TK.   
