@@ -1,8 +1,6 @@
 The Unicode Consortium approved  🧵[THREAD](https://emojipedia.org/spool-of-thread/),🧶 [YARN](https://emojipedia.org/ball-of-yarn/), 🧷[SAFETY PIN](https://emojipedia.org/safety-pin/) for the 2018 emoji characterset release. You can use them on Twitter and iOS now. No telling when Android phones will catch up. 😿
 
-# Sewing Needle
-
-The SEWING NEEDLE was set aside because the emoji sub-committee felt that it duplicated THREAD and that it wasn't visually distinctive. We worked with an illustrator to revise the image and I expanded the NEEDLE proposal to articulate clearly why it belongs in the character set. That proposal was accepted and the needle and thread will be part of [Unicode 13](https://www.unicode.org/L2/L2019/19088-needle-emoji.pdf) which will start appearing on devices in late 2020. The final proposal lives at: 
+The SEWING NEEDLE was set aside in 2018 because the emoji sub-committee felt that it duplicated THREAD and that it wasn't visually distinctive. We worked with an illustrator to revise the image and I expanded the NEEDLE proposal to articulate clearly why it belongs in the character set. That proposal was accepted and the needle and thread will be part of [Unicode 13](https://www.unicode.org/L2/L2019/19088-needle-emoji.pdf) which will start appearing on devices in late 2020. The final proposal lives at: 
 
 https://www.unicode.org/L2/L2019/19088-needle-emoji.pdf
 
